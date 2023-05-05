@@ -17,7 +17,7 @@ public class ExploreScreen extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        getSupportActionBar().hide();
+        getSupportActionBar().hide() ;
         setContentView(R.layout.activity_explore_screen);
 
         viewPager = findViewById(R.id.viewPager);
