@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="welcome">Join As</string>
+    <string name="tittle">Individual</string>
+    <string name="tittle1">Join and build real time Community</string>
+    <string name="tittle2">Professional</string>
+    <string name="tittle3">Worlds largest real time service community</string>
+    <string name="tittle4">Merchant</string>
+    <string name="tittle5">Worlds largest real time merchants </string>
+    <string name="started">Let\'s Get Started</string>
+    <string name="country">+91,INDIA</string>
+    <string name="hint">"Please Enter Phone Number "</string>
+    <string name="button">CONTINUE</string>
+    <string name="changeNumber">Change Phone Number ?</string>
+    <string name="privacy">By logging in , you agree with our Terms \n Learn how we process your data in our Privacy Policy \n
+    You can also go through the Disclaimer </string>
+    <string name="forget">Enter Old Phone Number</string>
+    <string name="forget1">"Enter your old Phone number to \n verif your account "</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
