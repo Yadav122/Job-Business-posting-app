@@ -55,6 +55,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:inputType="text|number"
+            android:backgroundTint="@color/background"
             android:paddingLeft="8dp"
             android:text="@string/country"
             android:textColor="@color/navy_blue"
@@ -66,10 +67,10 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="40dp"
+            android:backgroundTint="@color/background"
             android:hint="@string/hint"
-
-
             android:inputType="phone|number"
+            android:textColorHint="@color/background"
             android:paddingLeft="8dp"
             android:textColor="@color/navy_blue"
             android:typeface="serif"
